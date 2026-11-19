@@ -1,0 +1,51 @@
+{
+  "dataset_sha256": {
+    "rtb_train": "db0ecc0f49626993a2bbadab0561ddb3307926abc161f823e07b707c10aacefd",
+    "rtb_test": "ba3dc59962ec8f58ffb0ca3de5c833d4b589fc7215857f4ad7beb92726f24798",
+    "publisher_news_zip": "dba2ae526f62ccef6f2f8efb53b0268319f4d0d2719bb98d88958cfe31d58a22"
+  },
+  "record_counts": {
+    "publisher_articles": 39644,
+    "pmp_auctions": 200000,
+    "combined_records": 239644
+  },
+  "avails_metrics": {
+    "preset_segment_count": 24,
+    "gross_monthly_avails_imps": 707646702,
+    "bookable_pmp_avails_imps": 580270296,
+    "contention_buffer_pct": 18.0
+  },
+  "tag_and_creative_qa": {
+    "total_packages_audited": 120,
+    "seeded_pre_launch_defects_caught": 24,
+    "defect_interception_rate_pct": 100.0,
+    "post_remediation_launch_ready": 120,
+    "post_remediation_pass_rate_pct": 100.0
+  },
+  "delivery_reconciliation": {
+    "verified_billable_spend_usd": 394123.84,
+    "ledger_variance_usd": 0.0,
+    "dsp_deal_cohorts_reconciled": 8
+  },
+  "deliverables": {
+    "xlsx_workbook": "outputs/pmp_avails_and_tag_ops_pack.xlsx",
+    "pptx_screenshot_deck": "outputs/pmp_campaign_screenshot_deck.pptx",
+    "avails_csv": "outputs/preset_avails_24_segments.csv",
+    "slide_count": 7
+  },
+  "validation_gates_passed": "12/12",
+  "gates": {
+    "gate_01_sha256_provenance_verified": true,
+    "gate_02_combined_239644_records_loaded": true,
+    "gate_03_24_preset_avails_segments_complete": true,
+    "gate_04_contention_buffer_conserved": true,
+    "gate_05_100pct_seeded_tag_defects_intercepted": true,
+    "gate_06_100pct_post_remediation_tags_cleared": true,
+    "gate_07_zero_dollar_ledger_variance": true,
+    "gate_08_troubleshooting_flags_partitioned": true,
+    "gate_09_xlsx_multi_tab_pack_generated": true,
+    "gate_10_pptx_screenshot_deck_generated": true,
+    "gate_11_sqlite_integrity_ok": true,
+    "gate_12_zero_foreign_key_violations": true
+  }
+}

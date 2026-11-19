@@ -1,0 +1,25 @@
+Vertical ID,Publisher Vertical,Placement Format,Viewport,Preset Floor CPM ($),Publisher Article Slots,Gross Monthly Avails,Bookable PMP Avails (18% Contention Buffer),PMP Auction Sample,PMP Clear Rate (%),Verified PMP Spend ($)
+VERT-01,Lifestyle & Commerce,Outstream Video VAST 4.2,Desktop,14.5,194,3727358,3056434,3332,90.67,6103.96
+VERT-01,Lifestyle & Commerce,Outstream Video VAST 4.2,Mobile,14.5,274,5263608,4316159,5001,90.78,9130.26
+VERT-01,Lifestyle & Commerce,Post-Content High-Impact,Desktop,14.5,644,12022951,9858820,6665,91.61,12295.67
+VERT-01,Lifestyle & Commerce,Post-Content High-Impact,Mobile,14.5,987,18635511,15281119,10000,92.01,18590.33
+VERT-02,Entertainment & Video,Outstream Video VAST 4.2,Desktop,16.25,1549,26996081,22136786,3332,90.4,6617.22
+VERT-02,Entertainment & Video,Outstream Video VAST 4.2,Mobile,16.25,2356,40399828,33127859,5001,91.12,9952.68
+VERT-02,Entertainment & Video,Post-Content High-Impact,Desktop,16.25,1278,19536495,16019926,6665,92.05,13399.66
+VERT-02,Entertainment & Video,Post-Content High-Impact,Mobile,16.25,1874,29297338,24023817,10000,91.79,20121.94
+VERT-03,Business & Finance,Outstream Video VAST 4.2,Desktop,19.75,555,10842415,8890780,3332,90.79,7693.8
+VERT-03,Business & Finance,Outstream Video VAST 4.2,Mobile,19.75,810,15358111,12593651,5001,90.44,11480.96
+VERT-03,Business & Finance,Post-Content High-Impact,Desktop,19.75,1943,33195179,27220047,6665,91.3,15440.6
+VERT-03,Business & Finance,Post-Content High-Impact,Mobile,19.75,2950,50082345,41067523,10000,91.99,23338.24
+VERT-04,Digital Culture & Social,Outstream Video VAST 4.2,Desktop,13.8,281,5723492,4693263,3332,90.85,5866.63
+VERT-04,Digital Culture & Social,Outstream Video VAST 4.2,Mobile,13.8,400,8328085,6829030,5000,90.44,8788.45
+VERT-04,Digital Culture & Social,Post-Content High-Impact,Desktop,13.8,674,14297819,11724212,6665,92.08,11877.31
+VERT-04,Digital Culture & Social,Post-Content High-Impact,Mobile,13.8,968,20494680,16805638,10000,91.62,17828.45
+VERT-05,Technology & Consumer Gear,Outstream Video VAST 4.2,Desktop,18.4,804,16251362,13326117,3332,91.12,7304.3
+VERT-05,Technology & Consumer Gear,Outstream Video VAST 4.2,Mobile,18.4,1267,25478888,20892688,5000,90.16,10852.3
+VERT-05,Technology & Consumer Gear,Post-Content High-Impact,Desktop,18.4,2137,40304790,33049928,6665,91.7,14689.85
+VERT-05,Technology & Consumer Gear,Post-Content High-Impact,Mobile,18.4,3138,59328650,48649493,10000,91.88,22045.45
+VERT-06,Global & General News,Outstream Video VAST 4.2,Desktop,12.9,2434,44535311,36518955,3332,91.09,5607.47
+VERT-06,Global & General News,Outstream Video VAST 4.2,Mobile,12.9,3694,67150159,55063130,5000,91.06,8445.83
+VERT-06,Global & General News,Post-Content High-Impact,Desktop,12.9,3365,56016676,45933674,6665,91.39,11275.34
+VERT-06,Global & General News,Post-Content High-Impact,Mobile,12.9,5068,84379570,69191247,10000,91.7,16987.46
