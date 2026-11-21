@@ -20,6 +20,9 @@ End-to-end programmatic campaign operations, pre-launch ad tag & outstream `VAST
 4. **Automated Proof-of-Launch Screenshot Deck (`outputs/pmp_campaign_screenshot_deck.pptx`)**
    - Generates a **7-slide native OpenXML PowerPoint screenshot deck** pairing live placement tearsheet frames with Deal IDs, floor CPMs, viewport specs, and GAM/CM360 QA sign-off metadata.
 
+5. **Agency IO Intake & Post-Sales Billing Reconciler (`agency_billing_io_reconciliation/`)**
+   - Extends the suite across **40,144** verified media placements & creative deliverables to reconcile **24 media agency insertion orders** (`8` agencies, `6` verticals, **`98.02%`** blended delivery, **`$510,595.66`** booked IO budget vs. **`$500,622.54`** billable invoiced + **`$9,973.12`** make-good credits) with **`$0.00` billing ledger variance** (`outputs/agency_io_billing_reconciliation.xlsx`).
+
 ## 2. Verified Public Datasets & SHA-256 Provenance
 
 | Dataset | Source URL | Rows | Verified SHA-256 |

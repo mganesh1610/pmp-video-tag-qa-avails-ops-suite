@@ -1,0 +1,11 @@
+{
+  "total_verified_records": 40144,
+  "agency_insertion_orders": 24,
+  "on_time_launch_orders": 24,
+  "total_booked_io_usd": 510595.66,
+  "total_billable_invoiced_usd": 500622.54,
+  "total_makegood_credits_usd": 9973.12,
+  "total_abs_billing_variance_usd": 0.0,
+  "blended_delivery_attainment_pct": 98.02,
+  "xlsx_valid": true
+}
